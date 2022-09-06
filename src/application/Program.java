@@ -1,9 +1,9 @@
-package application;
+package src.application;
 
-import chess.ChessException;
-import chess.ChessMatch;
-import chess.ChessPiece;
-import chess.ChessPosition;
+import src.chess.ChessException;
+import src.chess.ChessMatch;
+import src.chess.ChessPiece;
+import src.chess.ChessPosition;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

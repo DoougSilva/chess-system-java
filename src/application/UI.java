@@ -1,8 +1,8 @@
-package application;
+package src.application;
 
-import chess.ChessPiece;
-import chess.ChessPosition;
 import chess.Color;
+import src.chess.ChessPiece;
+import src.chess.ChessPosition;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
