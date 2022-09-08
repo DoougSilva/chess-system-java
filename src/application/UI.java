@@ -1,6 +1,7 @@
 package src.application;
 
 import chess.Color;
+import src.chess.ChessMatch;
 import src.chess.ChessPiece;
 import src.chess.ChessPosition;
 
@@ -66,6 +67,12 @@ public class UI {
         }
     }
 
+    public static void printMatch(ChessMatch chessMatch) {
+        printBoard(chessMatch.getPieces());
+        System.out.println();
+        System.out.println("Turn : " + chessMatch.getTurn());
+        System.out.println("Waiting player: " + chessMatch.getCurrentPlayer());
+    }
 
     private static void printPiece(ChessPiece piece, boolean background) {
         if (background) {
