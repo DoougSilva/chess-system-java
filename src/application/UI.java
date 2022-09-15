@@ -1,6 +1,6 @@
 package src.application;
 
-import chess.Color;
+import src.chess.Color;
 import src.chess.ChessMatch;
 import src.chess.ChessPiece;
 import src.chess.ChessPosition;

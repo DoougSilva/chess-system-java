@@ -1,6 +1,5 @@
 package src.chess;
 
-import chess.Color;
 import src.boardgame.Board;
 import src.boardgame.Piece;
 import src.boardgame.Position;
