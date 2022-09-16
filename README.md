@@ -16,7 +16,7 @@ A aplicação consiste em um jogo de xadrez no terminal, com todas as jogadas no
 ![Chess4](https://github.com/DoougSilva/chess-system-java/blob/master/assets/chess4.png)
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/chess-system-design/blob/master/chess-system-design.png)
+![Modelo Conceitual]([https://github.com/acenelio/chess-system-design/blob/master/chess-system-design.png](https://github.com/DoougSilva/chess-system-java/blob/master/assets/chess-system-design.png))
 
 # Tecnologias utilizadas
 ## Back end
