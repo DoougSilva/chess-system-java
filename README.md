@@ -9,8 +9,10 @@ Chess Game é uma aplicação java feita durante o curso **Java COMPLETO Program
 A aplicação consiste em um jogo de xadrez no terminal, com todas as jogadas normais e especiais do xadrez.
 
 ## Layout 
-
-
+![Chess1](https://github.com/DoougSilva/chess-system-java/blob/master/assets/chess1.png)
+![Chess2](https://github.com/DoougSilva/chess-system-java/blob/master/assets/chess2.png)
+![Chess3](https://github.com/DoougSilva/chess-system-java/blob/master/assets/chess3.png)
+![Chess4](https://github.com/DoougSilva/chess-system-java/blob/master/assets/chess4.png)
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/acenelio/chess-system-design/blob/master/chess-system-design.png)
