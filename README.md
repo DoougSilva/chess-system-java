@@ -10,11 +10,9 @@ A aplicação consiste em um jogo de xadrez no terminal, com todas as jogadas no
 
 ## Layout 
 ![Chess1](https://github.com/DoougSilva/chess-system-java/blob/master/assets/chess1.png)
-
 ![Chess2](https://github.com/DoougSilva/chess-system-java/blob/master/assets/chess2.png)
 
 ![Chess3](https://github.com/DoougSilva/chess-system-java/blob/master/assets/chess3.png)
-
 ![Chess4](https://github.com/DoougSilva/chess-system-java/blob/master/assets/chess4.png)
 
 ## Modelo conceitual
@@ -35,6 +33,9 @@ git clone https://github.com/DoougSilva/chess-system-java.git
 
 # entrar na pasta do projeto 
 cd chess-system-java
+
+#compilar o projeto
+javac src/application/Program.java
 
 # executar o projeto
 java src.application.Program
